@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Today's Weather
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check today's weather based on country and country, with search history.
 
 ## Available Scripts
 
