@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Run this command before npm start to install all the required packages.\
+Run this command before npm start to install all the required packages.
 
 ### `npm start`
 
