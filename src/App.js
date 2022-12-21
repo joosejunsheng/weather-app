@@ -19,6 +19,7 @@ function App() {
 
   const [weather, setWeather] = useState("");
   
+  // Custom hook for local storage
 	const [weatherHistory, setWeatherHistory] = useLocalStorage();
 
   const onSubmitSearch = (searchObj) => {
